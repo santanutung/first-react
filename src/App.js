@@ -10,7 +10,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Hello CodeSandbox</h1>
+      <h1>Hello CodeSandbox test</h1>
       <Product product={product[0]}></Product>
       <Product product={product[1]}></Product>
       <Product product={product[2]}></Product>
